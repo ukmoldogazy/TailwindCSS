@@ -1,0 +1,21 @@
+{
+  "name": "1__lesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.3.4",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.11",
+    "vite": "^2.5.5"
+  },
+  "dependencies": {
+    "postcss-import": "^14.0.2"
+  }
+}
